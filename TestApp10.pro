@@ -4,7 +4,7 @@ folder_01.target = qml
 DEPLOYMENTFOLDERS = folder_01
 
 # Additional import path used to resolve QML modules in Creator's code model
-QML_IMPORT_PATH = U:\Apps\QtSDK\Simulator\Qt\mingw\imports\simulatorHarmattan
+QML_IMPORT_PATH = $$QMAKE_LIBDIR_QT/../imports/simulatorHarmattan
 
 symbian:TARGET.UID3 = 0xE275BB64
 
